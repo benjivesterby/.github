@@ -1,6 +1,6 @@
 ---
-name: 🐛 Bug report
-about: Create a report
+name: 🐛 Bug Report
+about: Create a bug report for this project
 title: "[Bug]: "
 labels: ["bug", "triage"]
 ---
